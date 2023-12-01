@@ -2,4 +2,4 @@
 
 My solutions for the first coursework of the BioInformatics 1 course
 
-Mark: 
+Mark: 64/100
